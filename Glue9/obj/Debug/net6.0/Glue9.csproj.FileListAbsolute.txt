@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/bin/Debug/net6.0/Glue9
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/bin/Debug/net6.0/Glue9.deps.json
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/bin/Debug/net6.0/Glue9.runtimeconfig.json
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/bin/Debug/net6.0/Glue9.dll
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/bin/Debug/net6.0/Glue9.pdb
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.AssemblyInfo.cs
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.dll
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/refint/Glue9.dll
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.pdb
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/Glue9.genruntimeconfig.cache
+/Users/tylermorgan/code401/Glue/Glue_Class_9_OOP/Glue9/obj/Debug/net6.0/ref/Glue9.dll
